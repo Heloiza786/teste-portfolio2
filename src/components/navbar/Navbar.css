@@ -1,0 +1,13 @@
+.navbar{ 
+    display:flex;
+    /* justify-content: space-between; */
+    justify-content: flex-end;
+    margin: 50px 0 0 0 ;
+   
+}
+.navbar-content{
+    display: flex;
+    flex: 1;
+    justify-content: right;
+    /* margin: ; */
+}
